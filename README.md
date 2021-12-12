@@ -1,7 +1,8 @@
 # Overview of The Code
-1. **Base Colab**: it contains the base colab used to perform all the training required for the project
-2. **Script**: it contains the scripts used in Colab for calling the correct module
-3. **module.py**: python files
+1. **BaseColab/MLDL_FPAR.pdf**: it contains the full explanation of our work
+2. **Base Colab**: it contains the base colab used to perform all the training required for the project
+3. **Script**: it contains the scripts used in Colab for calling the correct module
+4. **module.py**: python files
 
 # Imprinting The Motion
 ## Abstract
